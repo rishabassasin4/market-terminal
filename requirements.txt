@@ -6,3 +6,4 @@ plotly
 duckduckgo-search
 requests
 numpy
+lxml
